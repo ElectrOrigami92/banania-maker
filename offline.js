@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1527473282,
+	"version": 1527517492,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -75,6 +75,11 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"digital-7-webfont.eot",
+		"digital-7-webfont.svg",
+		"digital-7-webfont.ttf",
+		"digital-7-webfont.woff",
+		"digital-7.css"
 	]
 }
