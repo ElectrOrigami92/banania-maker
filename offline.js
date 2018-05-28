@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1527455513,
+	"version": 1527472453,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,13 +38,13 @@
 		"images/dbx_btn-sheet2.png",
 		"images/dbx-sheet0.png",
 		"images/dbx-sheet1.png",
+		"images/dbx-sheet2.png",
 		"images/pad-sheet0.png",
 		"images/pad_base-sheet0.png",
 		"images/barrer-sheet0.png",
 		"images/arrow-sheet0.png",
 		"images/arrow-sheet1.png",
-		"images/dbx_text.png",
-		"images/highlight.png",
+		"images/dbx_highlight.png",
 		"images/twoback.png",
 		"media/about.m4a",
 		"media/about.ogg",
