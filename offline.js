@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1529778040,
+	"version": 1529881328,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,12 +41,12 @@
 		"images/dbx-sheet2.png",
 		"images/fanastick-sheet0.png",
 		"images/fanapad-sheet0.png",
-		"images/barrer-sheet0.png",
 		"images/arrow-sheet0.png",
 		"images/arrow-sheet1.png",
 		"images/dbx_highlight.png",
 		"images/twoback.png",
 		"images/fanarangebox-sheet0.png",
+		"images/volstick-sheet0.png",
 		"media/about.m4a",
 		"media/about.ogg",
 		"media/argl.m4a",
